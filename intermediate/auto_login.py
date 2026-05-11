@@ -11,7 +11,7 @@ def startBot(username, password, url):
     driver = webdriver.Chrome(path)
     
     # opening the website  in chrome.
-    driver.get(url)     
+    driver.get(url)      
          
     # find the id or name or class of 
     # username by inspecting on u sername input
