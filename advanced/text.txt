@@ -1,0 +1,8 @@
+https://www.python.org
+https://www.djangoproject.com
+https://fastapi.tiangolo.com
+https://github.com
+https://developer.mozilla.org
+https://www.wikipedia.org
+https://www.bbc.com
+https://www.reuters.com
